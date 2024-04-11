@@ -18,8 +18,8 @@ class APIHandler {
     return this.api.post('/characters',newChar);
   }
 
-  updateOneRegister (updatedChar) {
-    return this.api.put(`/characters/${updatedChar.id}`,updatedChar);
+  updateOneRegister (id,updatedChar) {
+    return this.api.put(`/characters/${id}`,updatedChar);
   }
 
   deleteOneRegister (characterId) {

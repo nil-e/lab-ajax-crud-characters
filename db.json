@@ -1,11 +1,11 @@
 {
   "characters": [
     {
-      "id": "1",
-      "name": "han solo",
-      "occupation": "jedi",
-      "weapon": "lightsaber",
-      "cartoon": false
+      "name": "ge",
+      "occupation": "fa",
+      "weapon": "",
+      "cartoon": false,
+      "id": "1"
     },
     {
       "id": "2",
